@@ -1,0 +1,8 @@
+{
+  "isVip": true,
+  "vipExpire": "2099-12-31",
+  "memberType": "premium",
+  "userId": 123456789,
+  "storage": "2048GB",
+  "speedLimit": "unlimited"
+}
